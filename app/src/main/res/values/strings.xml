@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Fly Dubai</string>
+    <string name="first_travel">First Travel?</string>
+    <string name="title_activity_first_travel">FirstTravelActivity</string>
+    <string-array name="biggner_instr">
+        <item>Flight Boarding Instructions</item>
+        <item>Luggage</item>
+        <item>Hand Bag</item>
+        <item>Passport, Visa, Ticket</item>
+        <item>Security Check</item>
+        <item>Boarding Pass</item>
+        <item>Checkin</item>
+        <item>Proceed to Terminal</item>
+        <item>Get Into Flight</item>
+        <item>Find Your Seat</item>
+        <item>Switch Off Phone</item>
+        <item>Help during flying</item>
+    </string-array>
+    <string-array name="biggner_desc">
+        <item>Swipe Right for the instructions</item>
+        <item>Do not carry more than 20KG per person</item>
+        <item>Handbag size should not exceed the limit</item>
+        <item>Carry your passport with you, Do not forget your Visa, And your Ticket also </item>
+        <item>As soon as you reach airport. Go for security check</item>
+        <item>Then proceed for boarding pass counter, where your luggage will be carried by flight authorities</item>
+        <item>Go to the enterance where security will check body and handbags.</item>
+        <item>Go to the terminal which leads to your flight. The authorities will guide you to the flight</item>
+        <item>Get into the Flight</item>
+        <item>Check your seat number mentioned on your boarding pass</item>
+        <item>Switch Off Your Phone as it will create problem in communication to airports. Switch off your devices to prevent any Kind of Danger</item>
+        <item>In case of any help, press the button aboove your head to call the flight attendants for assistance</item>
+    </string-array>
+    <string-array name="adult_passenger_count">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="passenger_count">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="travelling_classes">
+        <item>Economy</item>
+        <item>Business</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="make_a_booking">Make a Booking</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="return_trip">Return Trip</string>
+    <string name="one_way">One Way</string>
+    <string name="adults">Adults</string>
+    <string name="children">Children</string>
+    <string name="infants">Infants</string>
+    <string name="promo">Promo</string>
+    <string name="return_date">Return Date</string>
+    <string name="journey_date">Journey Date</string>
+    <string name="find_flights">Start Flying</string>
+    <string name="back">Back</string>
+    <string name="proceed_to_pay">Proceed To Pay</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="offers">Offers:</string>
+    <string name="or_continue_as_guest">Or Continue as Guest</string>
+    <string name="you_can_use_your_promo_code_while_booking">You can use your promo code while booking</string>
+    <string name="get_rs_2000_worth_shopping_know_more">Get Rs. 2000 worth shopping… Know More</string>
+    <string name="signup_for_free_and_avail_a_cash_of_rs_1000_in_your_pay_wallet">Signup for free and avail a cash of Rs. 1000 in your pay wallet</string>
+    <string name="get_an_exclusive_cab_ride_at_your_door_step_free">Get an exclusive cab ride at your door step FREE.</string>
+    <string name="you_are_in_a_safe_zone_t_amp_c_apply"><![CDATA[You are in a safe zone. T&C apply***]]></string>
+    <string name="book_flight">Book Flight</string>
+    <string name="congratulations_an_amount_of_rs_1000_is_added_to_your_fly_wallet">Congratulations! An amount of Rs. 1000 is added to your Fly Wallet.</string>
+    <string name="fare_breakup">Fare Breakup</string>
+    <string name="base_fare">Base Fare</string>
+    <string name="xxxxx">₹ XXXXX</string>
+    <string name="taxes_amp_fees"><![CDATA[Taxes & Fees]]></string>
+    <string name="xxxx">₹ XXXX</string>
+    <string name="convenience_charges">Convenience Charges</string>
+    <string name="xxx">₹ XXX</string>
+    <string name="surcharge">Surcharge</string>
+    <string name="xx">₹ XX</string>
+    <string name="insurance_amount">Insurance Amount</string>
+    <string name="total">Total</string>
+    <string name="fly_wallet">Fly Wallet</string>
+    <string name="xxx1">(-) ₹ XXX</string>
+    <string name="amount_to_pay">Amount to Pay</string>
+    <string name="this_is_a_test_title">This is a test Title</string>
+    <string name="this_is_test_description">This is test description</string>
+    <string name="book">Book</string>
+    <string name="src">Src</string>
+    <string name="hyphen">-</string>
+    <string name="dest">Dest</string>
+    <string name="deal">Deal</string>
+    <string name="get_2000_cash_back">Get 2000 cash back:</string>
+    <string name="know_more">Know More…</string>
+    <string name="_03_05">03:05</string>
+    <string name="_05_15">05:15</string>
+    <string name="depart">Depart</string>
+    <string name="arrival">Arrival</string>
+    <string name="hyd">Hyd</string>
+    <string name="dbx">DBX</string>
+    <string name="flight_flydubai">Flight: FlyDubai</string>
+    <string name="price_xxxxx">Price: ₹ XXXXX</string>
+    <string name="click_to_view_baggage_details">Click to View Baggage details.</string>
+    <string name="cancellation_amp_refund_policy"><![CDATA[Cancellation & Refund Policy]]></string>
+    <string name="go_to_home">Go To Home</string>
+    <string name="congratulations_nyour_ticket_is_confirmed">Congratulations!\nYour Ticket is confirmed.</string>
+    <string name="emergency_number">Emergency Number</string>
+
+</resources>
